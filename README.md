@@ -26,3 +26,5 @@ $ source ./venv/bin/activate      for Mac or Linux
 
 $ pip install aiogram
 ```
+
+## If you have some questions please contact me, I will explain everything with pleasure! Have a good day
